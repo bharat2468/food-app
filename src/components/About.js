@@ -1,5 +1,3 @@
-import AboutInfoFun from "./AboutInfoFun";
-import AboutInfoClass from "./AboutInfoClass";
 import React from "react";
 
 class About extends React.Component{
@@ -37,7 +35,6 @@ class About extends React.Component{
                 <div className="stat-desc">↘︎ 90 (14%)</div>
             </div>
         </div>
-        <AboutInfoClass name={"hello"}/>
 
         </div>
         
